@@ -8,6 +8,10 @@ This Python script utilizes OpenCV and MediaPipe to perform real-time hand track
 https://github.com/KalyanMurapaka45/Hand-Tracking-Using-Opencv/assets/101493756/e0d7fae9-4a16-4639-b5fe-04d5c7f6ce38
 
 
+
+https://github.com/KalyanMurapaka45/Hand-Tracking-Using-Opencv/assets/101493756/d4af3251-1300-4b21-be33-78bb7397e5c0
+
+
 ## Built With
 
  - Opencv
