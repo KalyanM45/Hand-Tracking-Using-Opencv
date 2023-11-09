@@ -4,6 +4,8 @@
 
 This Python script utilizes OpenCV and MediaPipe to perform real-time hand tracking using a webcam. The code captures video input from the default camera, processes the frames to detect and track hand landmarks using the MediaPipe Hands module, and subsequently visualizes the landmarks on the live feed. For each detected hand, the script identifies and prints the coordinates of the landmarks, with a distinctive filled circle highlighting the first landmark (index 0). The frame rate is calculated and displayed in the corner, providing insights into the processing speed. Overall, this script combines the power of computer vision libraries to create a hands-on experience, quite literally, by bringing hand-tracking capabilities to your fingertips. It's a practical demonstration of the intersection between software and real-world interaction, opening doors to diverse applications such as virtual reality, gaming, and accessibility interfaces.
 
+![Watch the Demo Video](https://github.com/KalyanMurapaka45/Hand-Tracking-Using-Opencv/blob/main/Data%20Sources%20and%20Artifacts/Video%20Ouput.mp4)
+
 ## Built With
 
  - Opencv
